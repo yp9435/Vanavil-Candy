@@ -1,6 +1,6 @@
-# Yumeiro Candy - E-commerce Site
+# Vanavil Candy - E-commerce Site
 
-Yumeiro Candy is an e-commerce website built with HTML, CSS, SASS, Bootstrap, and JavaScript for frontend development, and PHP and MySQL for backend functionality using XAMPP.
+Vanavil Candy is an e-commerce website built with HTML, CSS, SASS, Bootstrap, and JavaScript for frontend development, and PHP and MySQL for backend functionality using XAMPP.
 
 ## Features
 
